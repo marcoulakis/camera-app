@@ -40,7 +40,7 @@
     "react-native-confirmation-code-field": "^7.3.0",
     "react-native-divider": "^1.0.3",
     "react-native-elements": "^3.4.2",
-    "react-native-gesture-handler": "~2.8.0",
+    "react-native-gesture-handler": "~2.16.2",
     "react-native-internet-connection-alert": "^0.1.6",
     "react-native-safe-area-context": "4.4.1",
     "react-native-screens": "~3.18.0",
